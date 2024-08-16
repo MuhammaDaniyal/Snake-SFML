@@ -324,7 +324,6 @@ for( int i=0 ; i<12 ; i++ )
 
 
     sf::Music bgMusic;
-	// bgMusic.openFromFile("music/background/anime-ahh.wav");
 	bgMusic.openFromFile("music/background/bg1.wav");
 	bgMusic.setVolume(70);
     bgMusic.play();
